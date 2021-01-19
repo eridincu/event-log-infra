@@ -6,7 +6,7 @@ Both services are currently running in separate machines in Google Cloud using C
 
 # Endpoints
 
-## Event Logs Service - URL: https://eventlogsservice-sgklw7jsfa-uc.a.run.app
+## Event Logs Service - URL: https://eventlogsservice-cev3u72ywa-uc.a.run.app
 
 ### Writing Logs to BigQuery
 
@@ -24,7 +24,7 @@ Gets all of the event logs stored in BigQuery table.
 **Method:** `POST` \
 **Parameters:** _None_
 
-## Stats Service - URL: https://statslogsservice-sgklw7jsfa-uc.a.run.app
+## Stats Service - URL: https://statsservice-cev3u72ywa-uc.a.run.app
 
 ### Daily Active Users
 
